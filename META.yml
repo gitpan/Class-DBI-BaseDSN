@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name: Class-DBI-BaseDSN
-version: 1.21
+version: 1.22
 license: perl
 distribution_type: module
 requires:
@@ -12,5 +12,5 @@ conflicts: {}
 provides:
   Class::DBI::BaseDSN:
     file: lib/Class/DBI/BaseDSN.pm
-    version: 1.21
-generated_by: Module::Build version 0.18
+    version: 1.22
+generated_by: Module::Build version 0.20
