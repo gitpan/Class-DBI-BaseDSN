@@ -1,0 +1,10 @@
+MANIFEST
+MANIFEST.SKIP
+META.yml
+SIGNATURE
+Makefile.PL
+Build.PL
+t/lib/Class/DBI/ATeam.pm
+t/lib/Class/DBI/CompileError.pm
+t/ateam.t
+lib/Class/DBI/BaseDSN.pm
